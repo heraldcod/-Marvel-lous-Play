@@ -2,7 +2,7 @@ from tkinter import Tk, Label, Button, PhotoImage, Radiobutton, IntVar
 from get_char import RandomChars
 from PIL import ImageTk
 from urllib.request import urlopen
-
+import time
 # main function that is called when main play button is clicked
 
 
@@ -109,6 +109,7 @@ def main_submit_clicked():
                       padx=10,
                       pady=10)
       label_q.place(x=450, y=100)
+      time.sleep(0.3)
       dict_button12 = Radiobutton(window,
                                   text=option1,
                                   font=('Arial', 10, 'bold'),
@@ -200,6 +201,6 @@ main_submit_button = Button(window,
                             text="PLAY",
                             font=('Arial', 20, 'bold'),
                             command=main_submit_clicked)
-main_submit_button.place(x=350, y=200)
+main_submit_button.place(x=350, y=150)
 
 window.mainloop()

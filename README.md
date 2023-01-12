@@ -2,7 +2,7 @@
 
 ## Do you know this Marvel comic character?
 
-The main aim of this project is to learn about APIs, get comfortable with retrieving data from APIs, authenticating using an API key and of course to have fun with Marvel characters.
+The goal of this project is to familiarize oneself with APIs, including how to retrieve data from them and authenticate using API keys, all while having fun with Marvel characters.
 
 [Marvel API](https://developer.marvel.com/) is a super fun API to play with Marvel characters, series, movies and of course Marvel comics
 

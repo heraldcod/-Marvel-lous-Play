@@ -1,3 +1,5 @@
+# All the characters and their pictures as key value pairs (retrieved using Marv )
+
 Master_dict = {
   "3-D Man":
   "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/535fecbbb9784/portrait_incredible.jpg",

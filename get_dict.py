@@ -2,6 +2,8 @@ import requests
 import json
 from keys import my_apikey, my_hash
 
+# Requesting chracters from Marvel API
+
 characters = requests.request(
   "GET",
   "http://gateway.marvel.com/v1/public/characters?ts=1&apikey={api1}&hash={hash1}"

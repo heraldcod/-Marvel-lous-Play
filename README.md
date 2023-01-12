@@ -2,7 +2,7 @@
 
 ## Do you know this Marvel comic character?
 
-The main aim of this project/Game is to learn about APIs and get comfortable with retrieving data from APIs and authenticating ourselves using an API key
+The main aim of this project/Game is to learn about APIs get, comfortable with retrieving data from APIs and authenticating ourselves using an API key
 
 [Marvel API](https://developer.marvel.com/) is a super fun API to play with Marvel characters, series, movies and of course Marvel comics
 
@@ -34,5 +34,25 @@ For example, a user with a public key of "1234" and a private key of "abcd" coul
 http://gateway.marvel.com/v1/public/comics?ts=1&apikey=1234&hash=ffd275c5130566a2916217b101f26150
 
 (The hash value is the md5 digest of **1abcd1234**)
+
+**Contributing**
+
+Please follow the code of conduct when contributing to this project.
+If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
+
+**Author**    
+
+Herald
+
+**License**
+
+This project is licensed under the MIT License - see the LICENSE file for details
+
+**Acknowledgments**
+
+Thank you to the **Marvel API** for providing character data
+
+Thank you to the **John Capobianco** for introducing Marvel API to me
+
 
 Last but not least **HAVE FUN** and **FEEL FREE TO FORK THE CODE** to develop your own application

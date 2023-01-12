@@ -52,7 +52,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Thank you to the **Marvel API** for providing character data
 
-Thank you to the **John Capobianco** for introducing Marvel API to me
+Thank you to **John Capobianco** for introducing Marvel API to me
 
 
 Last but not least **HAVE FUN** and **FEEL FREE TO FORK THE CODE** to develop your own application
